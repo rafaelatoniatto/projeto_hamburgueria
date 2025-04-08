@@ -1,4 +1,4 @@
-# Projeto Web: Hamburgueria Artesanal Mordida Perfeita 🍔
+# Projeto Web:Hamburgueria Artesanal Mordida Perfeita 🍔
 #Projeto realizado pela aluna Rafaela Toniatto  - R.A:202402781707
 
 ## Visão Geral do Projeto 🎯
